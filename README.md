@@ -1,2 +1,28 @@
-# 5f3fba5a-supply-chain-competitor-intell
-Every supply chain professionals needs this — most just don't know it yet.  Fully documented: every section explained so you know exactly what to customize. Mobile-optimized for Notion iOS and Android — works everywhere you work.  ## What's Included  - Supply Chain Competitor Intelligence — fully configured and ready to use - Pre-built databases wi
+# Supply Chain Competitor Intelligence Tracker Notion Template
+
+
+
+---
+
+## Free vs Pro
+
+| Feature | Free | Pro |
+|---------|:----:|:---:|
+| Basic template | Yes | Yes |
+| Standard views | Yes | Yes |
+| Sample data | Yes | Yes |
+| Advanced automations | - | Yes |
+| Custom formulas | - | Yes |
+| Multiple databases | - | Yes |
+| Dashboard views | - | Yes |
+| Video tutorials | - | Yes |
+| Lifetime updates | - | Yes |
+
+### Upgrade to Pro
+
+Get the full version with all premium features, priority support, and lifetime updates.
+
+**[Get Pro Version](https://buy.stripe.com/3cI14nh1B5wg2hieM4cZn1Z)**
+
+- [Buy Now (Stripe)](https://buy.stripe.com/3cI14nh1B5wg2hieM4cZn1Z)
+
